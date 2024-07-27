@@ -1,29 +1,28 @@
-Práctica de Programación Orientada a Objetos en Python
-!
-Bienvenido a este repositorio!
-Este repositorio está dedicado a la práctica de la programación orientada a objetos en Python. Aquí subiremos archivos de Python que demostrarán diferentes conceptos y técnicas de la programación orientada a objetos, como:
-Herencia
-Polimorfismo
-Encapsulamiento
-Abstracción
-Objetivos
-Practicar la creación de clases y objetos en Python
-Aprender a utilizar la herencia y el polimorfismo para crear código más eficiente y reutilizable
-Demostrar la aplicación de conceptos de programación orientada a objetos en problemas reales
-Contenido
-Archivos de Python que demostrarán diferentes conceptos de programación orientada a objetos
-Ejemplos de código que ilustrarán la aplicación de estos conceptos en problemas reales
-Documentación y explicaciones para ayudar a entender el código y los conceptos detrás de él
-Estructura del Repositorio
-Cada archivo de Python estará en una carpeta separada con un nombre descriptivo
-Cada carpeta tendrá un archivo README.md que explique el contenido del archivo de Python y los conceptos que se demuestran
-Contribuciones
-Si deseas contribuir a este repositorio, por favor crea un pull request con tus cambios
-Asegúrate de seguir las convenciones de codificación y documentación establecidas en este repositorio
-Licencia
-Este repositorio está bajo la licencia MIT
-Imágenes
-Estilos
-Este archivo README.md utiliza estilos Markdown para dar formato al texto
-Los títulos utilizan el estilo de encabezado (#) y los subtítulos utilizan el estilo de subencabezado (##)
-Las listas utilizan el estilo de lista (*) y los enlaces utilizan el estilo de enlace ([texto](url))
+# Proyecto de Práctica: Herencia y Polimorfismo en Python
+
+![Python](https://img.shields.io/badge/Python-3.9-brightgreen) ![Status](https://img.shields.io/badge/Status-Active-success)
+
+## Descripción
+
+Este proyecto está diseñado para practicar y entender conceptos clave de la programación orientada a objetos en Python, como herencia, polimorfismo, encapsulamiento y abstracción. A través de varios proyectos pequeños, se exploran estos conceptos de manera práctica para afianzar el conocimiento y mejorar las habilidades en desarrollo de software.
+
+## Estructura del Proyecto
+
+El proyecto se divide en varios módulos, cada uno enfocado en un aspecto específico de la programación orientada a objetos. Los módulos incluyen ejemplos prácticos de cómo aplicar herencia y polimorfismo en diferentes contextos.
+
+### Módulos Incluidos
+
+1. **Módulo 1: Herencia Básica**
+   - Ejemplos de clases base y derivadas.
+   - Implementación de métodos sobrescritos.
+
+2. **Módulo 2: Polimorfismo**
+   - Uso de interfaces y métodos abstractos.
+   - Ejemplos de polimorfismo en acción.
+
+3. **Módulo 3: Encapsulamiento y Abstracción**
+   - Aplicación de la encapsulación para proteger datos.
+   - Creación de clases abstractas para definir interfaces.
+
+
+
